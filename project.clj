@@ -31,7 +31,8 @@
                  [org.clojure/core.async "0.2.374"]
                  [cljs-ajax "0.5.4"]
                  [metosin/compojure-api "1.0.1"]
-                 [luminus-log4j "0.1.3"]]
+                 [luminus-log4j "0.1.3"]
+                 [clj-http "2.0.0"]]
 
   :min-lein-version "2.0.0"
 
